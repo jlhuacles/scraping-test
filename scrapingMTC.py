@@ -5,37 +5,42 @@ from seleniumwire import webdriver
 import json
 
 
-
+#instalamos nuestro chrome drive manager
 ruta = ChromeDriverManager(path='./chromedriver').install()
-print(ruta)
-
+#creamos el servicio en base a cromhe
 s = Service(ruta)
+#instanciamos una instancia del webdriver chrome en base al servicio anterior con seleniumwire
 driver = webdriver.Chrome(service=s)
+#features
 url = "http://gis.sutran.gob.pe/alerta_sutran/"
+nombre_buscar = 'carga_xlsx.php'
 
-texto_response =""
 
 
-driver.get(url)
-for request in driver.requests:
-    if request.response:
-        if request.method == 'POST' and request.url.split('/')[-1] == 'carga_xlsx.php':
-            print(
-                request.url,
-                request.response.status_code,
-                request.response.headers['Content-Type'],
-                
-            )
-            texto_response = request.response.body.decode('utf-8-sig')
+def obtener_POST(url,name_file):
+    driver.get(url)
+    for request in driver.requests:
+        if request.response:
+            if request.method == 'POST' and request.url.split('/')[-1] == name_file:
+                print(
+                    request.url,
+                    request.response.status_code,
+                    request.response.headers['Content-Type'],
+                    
+                )
+                texto_response = request.response.body.decode('utf-8-sig')
+    return texto_response
+
+
 
 #####Exportando data completa
-
-json_response = json.loads(texto_response) #paratrabajar en python
+texto_respuesta = obtener_POST(url, nombre_buscar)
+json_response = json.loads(texto_respuesta) #paratrabajar en python
 json_response_write = json.dumps(json_response, indent=4) # metodo que exporta nuestra data a json
 with open('data.json',"w") as f:
     f.write(json_response_write)
 
-#####Exportando data filtrada
+#####Exportando data filtrada según lo solicitado
 
 filtrado = []
 
