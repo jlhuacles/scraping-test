@@ -1,0 +1,930 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.382396,
+                -13.181234
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "511",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "09/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/CARABAYA/AYAPATA",
+            "afectacion": "KM 352+800",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-13.181234",
+            "longitud": "-70.382396",
+            "_sort_": "-13.181234+-70.382396",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA (SAN GABAN)/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-30C",
+            "nombre_carretera": "CARRETERA URCOS - MASUCO - I\u00d1APARI",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.4104037,
+                -14.0751132
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "512",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "05/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/CARABAYA/MACUSANI",
+            "afectacion": "KM 180",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.0751132",
+            "longitud": "-70.4104037",
+            "_sort_": "-14.0751132+-70.4104037",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-34B",
+            "nombre_carretera": "VIA CALAPUJA - MACUSANI - LECHEMAYO",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.329011,
+                -14.580414
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "508",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "05/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/AZANGARO/ASILLO",
+            "afectacion": "KM 99+500",
+            "evento": "(PUENTE PALMERA) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.580414",
+            "longitud": "-70.329011",
+            "_sort_": "-14.580414+-70.329011",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-34B",
+            "nombre_carretera": "VIA CALAPUJA - MACUSANI - LECHEMAYO",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.3099449,
+                -14.7665132
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "505",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/AZANGARO/ASILLO",
+            "afectacion": "KM 71",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.7665132",
+            "longitud": "-70.3099449",
+            "_sort_": "-14.7665132+-70.3099449",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-34B",
+            "nombre_carretera": "VIA CALAPUJA - MACUSANI - LECHEMAYO",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.36483314,
+                -15.04683526
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "537",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/LAMPA/PUCARA",
+            "afectacion": "KM 1251",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.04683526",
+            "longitud": "-70.36483314",
+            "_sort_": "-15.04683526+-70.36483314",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.360735,
+                -15.153773
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "538",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/LAMPA/PUCARA",
+            "afectacion": "KM 1263+500",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.153773",
+            "longitud": "-70.360735",
+            "_sort_": "-15.153773+-70.360735",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.29066775,
+                -15.27624595
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "536",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/LAMPA/NICASIO",
+            "afectacion": "KM 1280",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.27624595",
+            "longitud": "-70.29066775",
+            "_sort_": "-15.27624595+-70.29066775",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.18806539,
+                -15.33267057
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "535",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "05/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/LAMPA/CALAPUJA",
+            "afectacion": "KM 1294",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.33267057",
+            "longitud": "-70.18806539",
+            "_sort_": "-15.33267057+-70.18806539",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.10074852,
+                -15.4604171
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "567",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/SAN ROMAN/SAN MIGUEL",
+            "afectacion": "KM 04 Y KM 10",
+            "evento": "(SECTOR PUENTE INDEPENDENCIA Y CENTRO POBLADO AYABACAS) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.4604171",
+            "longitud": "-70.10074852",
+            "_sort_": "-15.4604171+-70.10074852",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-34H",
+            "nombre_carretera": "VIA JULIACA - PUTINA - SANDIA - AZATA",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.152617,
+                -15.48538
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "564",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/SAN ROMAN/JULIACA",
+            "afectacion": "KM 1 AL KM 30",
+            "evento": "(VIA JULIACA-LAMPA - PE-3SQ) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.48538",
+            "longitud": "-70.152617",
+            "_sort_": "-15.48538+-70.152617",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PU-124",
+            "nombre_carretera": "VIA JULIACA-LAMPA",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.1591639,
+                -15.5034706
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "566",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "05/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/SAN ROMAN/JULIACA",
+            "afectacion": "KM 296",
+            "evento": "(KM 02 DE LA VIA JULIACA - AREQUIPA) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.5034706",
+            "longitud": "-70.1591639",
+            "_sort_": "-15.5034706+-70.1591639",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-34A",
+            "nombre_carretera": "CARRETERA REPARTICION AREQUIPA - SANTA LUCIA - JULIACA",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.11438793,
+                -15.53621928
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "565",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/SAN ROMAN/JULIACA",
+            "afectacion": "KM 1320",
+            "evento": "(SECTOR CARACOTO) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.53621928",
+            "longitud": "-70.11438793",
+            "_sort_": "-15.53621928+-70.11438793",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.06944614,
+                -15.69170864
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "553",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/PUNO/PAUCARCOLLA",
+            "afectacion": "KM 1338",
+            "evento": "(DESVIO A SILLUSTANI) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.69170864",
+            "longitud": "-70.06944614",
+            "_sort_": "-15.69170864+-70.06944614",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP JULIACA/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.630626102449,
+                -16.095067273612
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "523",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "07/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/EL COLLAO/ILAVE",
+            "afectacion": "KM 84",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-16.095067273612",
+            "longitud": "-69.630626102449",
+            "_sort_": "-16.095067273612+-69.630626102449",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP MAZOCRUZ/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-38A",
+            "nombre_carretera": "VIA MAZO CRUZ - ILAVE",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.716717,
+                -16.73903
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "524",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "07/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/EL COLLAO/SANTA ROSA",
+            "afectacion": "KM 0",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-16.73903",
+            "longitud": "-69.716717",
+            "_sort_": "-16.73903+-69.716717",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP MAZOCRUZ/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-38A",
+            "nombre_carretera": "VIA MAZO CRUZ - ILAVE",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.0340013,
+                -16.7991935
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "525",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/EL COLLAO/SANTA ROSA",
+            "afectacion": "KM 175 AL 213",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-16.7991935",
+            "longitud": "-70.0340013",
+            "_sort_": "-16.7991935+-70.0340013",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP MAZOCRUZ/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-36A",
+            "nombre_carretera": "CARRETERA MOQUEGUA - TORATA - MAZO CRUZ - DESAGUADERO",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.759059671272,
+                -17.19684952581
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "520",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO RESTRINGIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/EL COLLAO/CAPAZO",
+            "afectacion": "KM 171 AL KM 226",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-17.19684952581",
+            "longitud": "-69.759059671272",
+            "_sort_": "-17.19684952581+-69.759059671272",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP MAZOCRUZ/CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-38",
+            "nombre_carretera": "CARRETERA TACNA - TARATA - MAZO  CRUZ",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.82002598,
+                -14.60292814
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "548",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/MELGAR/SANTA ROSA",
+            "afectacion": "KM 1183",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.60292814",
+            "longitud": "-70.82002598",
+            "_sort_": "-14.60292814+-70.82002598",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP AYAVIRI / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.59682222,
+                -14.89138144
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "544",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/MELGAR/AYAVIRI",
+            "afectacion": "KM 1219",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.89138144",
+            "longitud": "-70.59682222",
+            "_sort_": "-14.89138144+-70.59682222",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP AYAVIRI / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.596754389259,
+                -14.894082001507
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "542",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/MELGAR/AYAVIRI",
+            "afectacion": "KM 0 AL KM 21",
+            "evento": "(VIA AYAVIRI- UMACHIRI) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.894082001507",
+            "longitud": "-70.596754389259",
+            "_sort_": "-14.894082001507+-70.596754389259",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP AYAVIRI / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3SG",
+            "nombre_carretera": "CARRETERA CHALHUAHUACHO - ESPINAR - AYAVIRI",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.586776,
+                -14.89505
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "543",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/MELGAR/AYAVIRI",
+            "afectacion": "KM 0 AL KM 33",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-14.89505",
+            "longitud": "-70.586776",
+            "_sort_": "-14.89505+-70.586776",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP AYAVIRI / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PU-102",
+            "nombre_carretera": "VIA AYAVIRI- ASILLO",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.36739233,
+                -15.03847799
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "545",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/MELGAR/AYAVIRI",
+            "afectacion": "KM 1250",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.03847799",
+            "longitud": "-70.36739233",
+            "_sort_": "-15.03847799+-70.36739233",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP AYAVIRI / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -70.029232,
+                -15.8211
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "558",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "12/02/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/PUNO/PUNO",
+            "afectacion": "KM 1355",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.8211",
+            "longitud": "-70.029232",
+            "_sort_": "-15.8211+-70.029232",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP PUNO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.83547234,
+                -15.94472157
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "557",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "05/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/PUNO/PLATERIA",
+            "afectacion": "KM 1387",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-15.94472157",
+            "longitud": "-69.83547234",
+            "_sort_": "-15.94472157+-69.83547234",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP PUNO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.6403096,
+                -16.09155073
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "522",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "22/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/EL COLLAO/ILAVE",
+            "afectacion": "KM 1414",
+            "evento": "(PUENTE ILAVE) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-16.09155073",
+            "longitud": "-69.6403096",
+            "_sort_": "-16.09155073+-69.6403096",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP PUNO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.38923449,
+                -16.22248311
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "516",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "22/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/CHUCUITO/JULI",
+            "afectacion": "KM 1450",
+            "evento": "(CENTRO POBLADO MOLINO) PARO INDEFINIDO PARA LA RENUNCIA DE LA PRESIDENTE DINA BELUARTE, CIERRE DE CONGRESO Y NUEVA CONSTITUCION",
+            "latitud": "-16.22248311",
+            "longitud": "-69.38923449",
+            "_sort_": "-16.22248311+-69.38923449",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP DESAGUADERO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.29548283,
+                -16.26885871
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "517",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/CHUCUITO/POMATA",
+            "afectacion": "KM 1463",
+            "evento": "(CENTRO POBLADO CCUMI) PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-16.26885871",
+            "longitud": "-69.29548283",
+            "_sort_": "-16.26885871+-69.29548283",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP DESAGUADERO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-3S",
+            "nombre_carretera": "LONGITUDINAL DE LA SIERRA SUR",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.1857072,
+                -16.6042637
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "519",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/CHUCUITO/ZEPITA",
+            "afectacion": "KM 287",
+            "evento": "(CENTRO POBLADO SICUYANI) PARO INDEFINIDO PARA LA RENUNCIA DE LA PRESIDENTE DINA BOLUARTE, CIERRE DE CONGRESO Y NUEVA CONSTITUCION",
+            "latitud": "-16.6042637",
+            "longitud": "-69.1857072",
+            "_sort_": "-16.6042637+-69.1857072",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP DESAGUADERO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-36A",
+            "nombre_carretera": "CARRETERA MOQUEGUA - TORATA - MAZO CRUZ - DESAGUADERO",
+            "alerta_activa_24_horas": "SI"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "coordinates": [
+                -69.67592,
+                -16.72557
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "item": "528",
+            "visualizacion_": "SI",
+            "tipo_alerta_": "VIGENTE",
+            "estado": "TRANSITO INTERRUMPIDO",
+            "fecha_evento": "04/01/2023",
+            "fecha_actualizacion": "24/03/2023 15:30 HORAS",
+            "ubigeo": "PUNO/EL COLLAO/SANTA ROSA",
+            "afectacion": "KM 310",
+            "evento": "PARO INDEFINIDO SOLICITANDO NUEVAS ELECCIONES PRESIDENCIALES Y DISOLUCION DEL CONGRESO",
+            "latitud": "-16.72557",
+            "longitud": "-69.67592",
+            "_sort_": "-16.72557+-69.67592",
+            "_fecha_actualizacion_": "2023 15:30 HORAS+03+24+15:30",
+            "cant_vehiculos_detenidos_pasajeros": "0",
+            "cant_vehiculos_detenidos_mercancias": "0",
+            "fuente": "DESPRCAR PNP DESAGUADERO / CEOPOL",
+            "motivo": "HUMANO",
+            "codigo_via": "PE-36A",
+            "nombre_carretera": "CARRETERA MOQUEGUA - TORATA - MAZO CRUZ - DESAGUADERO",
+            "alerta_activa_24_horas": "SI"
+        }
+    }
+]
